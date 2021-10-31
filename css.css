@@ -1,0 +1,9 @@
+#mycontainer {
+    position: relative;
+    margin: 360px;
+    text-align: center;
+}
+
+#mybody{
+    background-color: aqua;
+}
